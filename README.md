@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github.com/fajar-reiva-cahya/fajar-reiva-cahya/blob/main/test.gif" width="500px" alt=""><br></h1>
+<p align="center">
+
 <!--
 **fajar-reiva-cahya/fajar-reiva-cahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
